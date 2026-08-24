@@ -1,4 +1,7 @@
 # ITIL-PRINCE2-Practical-Integration-Guide
+
+> 💡 **Original Publication:** This article was originally published on [Eccentrix Corner](https://www.eccentrix.ca/en/eccentrix-corner/integrating-itil-and-prince2-a-practical-guide/). Go there for the latest updates and to explore more technical content.
+
 The strategic integration of ITIL and PRINCE2 frameworks represents a fundamental shift in how organizations approach service and project management. When properly aligned, these methodologies create robust foundations for both service delivery and project success.
 
 ## Framework Integration Fundamentals
